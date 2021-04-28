@@ -1,0 +1,50 @@
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.Form1.resources
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.Form2.resources
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.Properties.Resources.resources
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.csproj.GenerateResource.cache
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\VkAPIMaybeFinal.exe.config
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\VkAPIMaybeFinal.exe
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\VkAPIMaybeFinal.pdb
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\VkNet.dll
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\VkNet.xml
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.csproj.CopyComplete
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.exe
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.pdb
+C:\Users\Olga\Desktop\MyFolder\универ\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.csprojAssemblyReference.cache
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\VkAPIMaybeFinal.exe.config
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\VkAPIMaybeFinal.exe
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\VkAPIMaybeFinal.pdb
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\VkNet.dll
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\bin\Debug\VkNet.xml
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.csprojAssemblyReference.cache
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.Form1.resources
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.Form2.resources
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.Properties.Resources.resources
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.csproj.GenerateResource.cache
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.csproj.CopyComplete
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.exe
+C:\Users\Olga\Desktop\MyFolder\универ\2 курс 3 семестр\Vk API приложение\VkAPIMaybeFinal\VkAPIMaybeFinal\obj\Debug\VkAPIMaybeFinal.pdb
